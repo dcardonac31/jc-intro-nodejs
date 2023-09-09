@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "name": "js-intro-nodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "crypto-random-string": "^5.0.0",
+    "random-int": "^3.0.0"
+  }
+}
